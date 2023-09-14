@@ -1,0 +1,7 @@
+C:\Users\Ezizchik\source\repos\14SepTask\14SepTask\bin\Debug\14SepTask.exe.config
+C:\Users\Ezizchik\source\repos\14SepTask\14SepTask\bin\Debug\14SepTask.exe
+C:\Users\Ezizchik\source\repos\14SepTask\14SepTask\bin\Debug\14SepTask.pdb
+C:\Users\Ezizchik\source\repos\14SepTask\14SepTask\obj\Debug\14SepTask.csproj.AssemblyReference.cache
+C:\Users\Ezizchik\source\repos\14SepTask\14SepTask\obj\Debug\14SepTask.csproj.CoreCompileInputs.cache
+C:\Users\Ezizchik\source\repos\14SepTask\14SepTask\obj\Debug\14SepTask.exe
+C:\Users\Ezizchik\source\repos\14SepTask\14SepTask\obj\Debug\14SepTask.pdb
